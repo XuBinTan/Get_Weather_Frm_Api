@@ -9,7 +9,7 @@
 * [阿里云天气预报API]
 
 ### 技术点
-* 嵌入式C语言
+* C语言
 * Linux文件IO
 * TCP/IP协议解析，经典socket编程
 * HTTP协议解析
